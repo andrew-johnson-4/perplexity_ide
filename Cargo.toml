@@ -1,0 +1,12 @@
+[package]
+name = "perplexity_ide"
+version = "0.0.1"
+authors = ["Andrew Johnson"]
+edition = "2021"
+description = "IDE for Perplexity Modelling Language"
+license = "MIT"
+keywords = ["ide","neural","network","diagram","modelling"]
+
+[dependencies.dioxus]
+version = "0.2"
+features = ["desktop"]
